@@ -4,6 +4,8 @@
 - 🌱 Estou estudando Java e Kotlin para começar a desenvolver para Android, estou curtindo muito ...
 - 👯 Apaixonado por programação e conhecimento...
 
+<hr>
+<h3>Linguagens</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-Delphi" height="50" width="50" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" title="Delphi">  
   <img align="center" alt="Vagner-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
@@ -12,6 +14,7 @@
   <img align="center" alt="Vagner-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
 </div>
 <hr>
+<h3>Redes sociais e contato</h3>
 <div> 
   <a href="https://www.instagram.com/vagner.oliveira.100" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
