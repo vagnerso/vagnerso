@@ -21,3 +21,7 @@
   <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<hr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vagnerso&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Gráfico%20de%20contribuições%20em%20todos%20repositórios" width="100%" alt="activity graph">
+</p>
