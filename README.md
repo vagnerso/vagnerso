@@ -30,6 +30,35 @@
 </details>
 <hr>
 <details open>
+  <summary><h3>Databases</h3></small></summary>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vagner-sqlite" height="50" width="50" src="assets/sqlite.png" title="SQLite">  
+  <img align="center" alt="Vagner-firebird" height="50" width="50" src="assets/firebird.png" title="Firebird">
+  <img align="center" alt="Vagner-mysql" height="50" width="50" src="assets/mysql.png" title="MySQL">  
+</div>
+</details>
+<hr>
+<details open>
+  <summary><h3>Development Tools</h3></small></summary>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vagner-dbeaver" height="50" width="50" src="assets/dbeaver.png" title="Dbeaver">  
+  <img align="center" alt="Vagner-ibexpert" height="50" width="50" src="assets/ibexpert.png" title="IBExpert">
+  <img align="center" alt="Vagner-rad-studio" height="50" width="50" src="assets/rad-studio.png" title="RAD Studio">
+  <img align="center" alt="Vagner-visual-studio" height="50" width="50" src="assets/visual-studio-code.svg" title="Visual Studio Code">
+</div>
+</details>
+<hr>
+<details open>
+  <summary><h3>UX & UI Tools</h3></small></summary>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Vagner-figma" height="50" width="50" src="assets/figma.png" title="Figma">  
+  <img align="center" alt="Vagner-adobe-xd" height="50" width="50" src="assets/adobe-xd.png" title="Adobe XD">
+  <img align="center" alt="Vagner-fireworks" height="50" width="50" src="assets/adobe-fireworks.png" title="Adobe Fireworks">
+  <img align="center" alt="Vagner-illustrator" height="50" width="50" src="assets/adobe-Illustrator.png" title="Adobe Illustrator">
+</div>
+</details>
+<hr>
+<details open>
   <summary><h3>Contact</h3></small></summary>
   <div> 
   <a href="https://www.instagram.com/vagner.oliveira.100" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
