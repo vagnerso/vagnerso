@@ -52,7 +52,7 @@
   <summary><h3>UX & UI Tools</h3></small></summary>
   <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-figma" height="50" width="50" src="assets/figma.png" title="Figma">  
-  <img align="center" alt="Vagner-adobe-xd" height="50" width="50" src="assets/adobe-xd.png" title="Adobe XD">
+  <img align="center" alt="Vagner-adobe-xd" height="50" width="50" src="assets/adobe-xd.svg" title="Adobe XD">
   <img align="center" alt="Vagner-fireworks" height="50" width="50" src="assets/adobe-fireworks.png" title="Adobe Fireworks">
   <img align="center" alt="Vagner-illustrator" height="50" width="50" src="assets/adobe-Illustrator.png" title="Adobe Illustrator">
 </div>
