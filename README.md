@@ -2,31 +2,28 @@
 
 <details open>
   <summary><h3>About me</h3></small></summary>
-  <div style="display: inline_block"><br>
   <p>
-    I entered the software development area in 2009, after completing the technical course in computer science. I started developing in Delphi which is the main language I use. In 2018 I graduated with a bachelor's degree in Information Systems from ULBRA in Guaiba (Rio Grande do Sul, Brazil), and in 2020 I completed a postgraduate degree in Interaction Design (UX/UI).
+    :man_student: :books: I entered the software development area in 2009, after completing the technical course in computer science. I started developing in Delphi which is the main language I use. In 2018 I graduated with a bachelor's degree in Information Systems from ULBRA in Guaiba (Rio Grande do Sul, Brazil), and in 2020 I completed a postgraduate degree in Interaction Design (UX/UI).
   </p>
   <p>
-    I also like to develop websites, mainly the front-end part. I am passionate about programming, games, music and football. I'm currently working as a Delphi developer, UX/UI designer and studying Java and Kotlin for Android.
+    :computer: :writing_hand: I also like to develop websites, mainly the front-end part. I am passionate about programming, games, music and football. I'm currently working as a Delphi developer, UX/UI designer and studying Java and Kotlin for Android.
   </p>  
 </div>
 </details>
 <hr>
 <details>
   <summary><h3>Sobre mim</h3></small></summary>
-  <div style="display: inline_block"><br>
   <p>
-    Entrei na área de desenvolvimento de software no ano de 2009, após concluir o curso técnico de informática. Comecei a desenvolver em Delphi que é a principal linguagem que utilizo. Em 2018 me formei bacharel em Sistemas de Informação pela ULBRA de Guaiba(Rio     Grande do Sul, Brasil), e em 2020 concluí pós gradução em Design de Interação (UX/UI). 
+    :man_student: :books: Entrei na área de desenvolvimento de software no ano de 2009, após concluir o curso técnico de informática. Comecei a desenvolver em Delphi que é a principal linguagem que utilizo. Em 2018 me formei bacharel em Sistemas de Informação pela ULBRA de Guaiba(Rio     Grande do Sul, Brasil), e em 2020 concluí pós gradução em Design de Interação (UX/UI). 
   </p>
   <p>
-    Também gosto de desenvolver websites, principalmente a parte de front-end. Sou apaixonado por programação, jogos, música e futebol. Atualmente estou atuando como desenvolvedor Delphi, UX/UI designer e estudando Java e Kotlin para Android. 
+    :computer: :writing_hand: Também gosto de desenvolver websites, principalmente a parte de front-end. Sou apaixonado por programação, jogos, música e futebol. Atualmente estou atuando como desenvolvedor Delphi, UX/UI designer e estudando Java e Kotlin para Android. 
   </p>
 </div>
 </details>
 <hr>
 <details open>
   <summary><h3>Languages</h3></small></summary>
-  <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-Delphi" height="50" width="50" src="assets/delphi.png" title="Delphi">  
   <img align="center" alt="Vagner-HTML" height="50" width="50" src="assets/html5.svg" title="HTML 5">
   <img align="center" alt="Vagner-CSS" height="50" width="50" src="assets/css3.svg" title="CSS 3">
@@ -37,7 +34,6 @@
 <hr>
 <details open>
   <summary><h3>Databases</h3></small></summary>
-  <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-sqlite" height="50" width="50" src="assets/sqlite.png" title="SQLite">  
   <img align="center" alt="Vagner-firebird" height="50" width="50" src="assets/firebird.png" title="Firebird">
   <img align="center" alt="Vagner-mysql" height="50" width="50" src="assets/mysql.png" title="MySQL">  
@@ -46,7 +42,6 @@
 <hr>
 <details open>
   <summary><h3>Development Tools</h3></small></summary>
-  <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-dbeaver" height="50" width="50" src="assets/dbeaver.png" title="Dbeaver">  
   <img align="center" alt="Vagner-ibexpert" height="50" width="50" src="assets/ibexpert.png" title="IBExpert">
   <img align="center" alt="Vagner-rad-studio" height="50" width="50" src="assets/rad-studio.png" title="RAD Studio">
@@ -56,7 +51,6 @@
 <hr>
 <details open>
   <summary><h3>UX & UI Tools</h3></small></summary>
-  <div style="display: inline_block"><br>
   <img align="center" alt="Vagner-figma" height="50" width="50" src="assets/figma.png" title="Figma">  
   <img align="center" alt="Vagner-adobe-xd" height="50" width="50" src="assets/adobe-xd.svg" title="Adobe XD">
   <img align="center" alt="Vagner-fireworks" height="50" width="50" src="assets/adobe-fireworks.png" title="Adobe Fireworks">
