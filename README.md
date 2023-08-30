@@ -21,11 +21,11 @@
 <details open>
   <summary><h3>Languages</h3></small></summary>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Vagner-Delphi" height="50" width="50" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" title="Delphi">  
-  <img align="center" alt="Vagner-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
-  <img align="center" alt="Vagner-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3">
-  <img align="center" alt="Vagner-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java">
-  <img align="center" alt="Vagner-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP">
+  <img align="center" alt="Vagner-Delphi" height="50" width="50" src="assets/delphi.png" title="Delphi">  
+  <img align="center" alt="Vagner-HTML" height="50" width="50" src="assets/html5.svg" title="HTML 5">
+  <img align="center" alt="Vagner-CSS" height="50" width="50" src="assets/css3.svg" title="CSS 3">
+  <img align="center" alt="Vagner-Java" height="50" width="50" src="assets/java.svg" title="Java">
+  <img align="center" alt="Vagner-PHP" height="50" width="50" src="assets/php.svg" title="PHP">
 </div>
 </details>
 <hr>
