@@ -64,7 +64,8 @@
   <a href="https://www.instagram.com/vagner.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>   
+  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.tiktok.com/@vagner.oliveira.dev" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23E4114F?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
 </details>
 <hr>
