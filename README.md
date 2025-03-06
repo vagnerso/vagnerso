@@ -3,21 +3,34 @@
 <details open>
   <summary><h3>About me</h3></small></summary>
   <p>
-    :man_student: :books: I entered the software development area in 2009, after completing the technical course in computer science. I started developing in Delphi which is the main language I use. In 2018 I graduated with a bachelor's degree in Information Systems from ULBRA in Guaiba (Rio Grande do Sul, Brazil), and in 2020 I completed a postgraduate degree in Interaction Design (UX/UI).
+    Hello! 👋 I'm Vagner Oliveira, a programming and technology enthusiast. Welcome to my profile!
   </p>
   <p>
-    :computer: :writing_hand: I also like to develop websites, mainly the front-end part. I am passionate about programming, games, music and football. I'm currently working as a Delphi developer, UX/UI designer and studying Java and Kotlin for Android.
-  </p>  
+    My journey in the field of Information Technology began in 2009 when I completed my Technical Course in Informatics. Interestingly, my initial goal was to learn about hardware, but in the second semester, I was introduced to the fascinating world of programming—and it was love at first sight. From that moment on, I knew I wanted to become a developer.
+  </p>
+  <p>
+    Later in 2009, I started my professional career and had my first experience with the Delphi language, which became my specialty. Over the years, I expanded my knowledge, and in 2018, I earned a Bachelor's degree in Information Systems from ULBRA (Guaíba - RS Campus). Seeking a deeper understanding of user experience and interface design, I completed a postgraduate degree in Interaction Design (UX/UI) at IGTI in 2020.
+  </p>
+  <p>
+    In addition to my expertise in Delphi, I also have experience with JavaScript, HTML, CSS, and SQL, focusing on enhancing my front-end web development skills.
+  </p>
+  
 </div>
 </details>
 <hr>
 <details>
   <summary><h3>Sobre mim</h3></small></summary>
   <p>
-    :man_student: :books: Entrei na área de desenvolvimento de software no ano de 2009, após concluir o curso técnico de informática. Comecei a desenvolver em Delphi que é a principal linguagem que utilizo. Em 2018 me formei bacharel em Sistemas de Informação pela ULBRA de Guaiba(Rio     Grande do Sul, Brasil), e em 2020 concluí pós gradução em Design de Interação (UX/UI). 
+    Olá! 👋 Sou Vagner Oliveira, um entusiasta da programação e da tecnologia. Seja muito bem-vindo(a) ao meu perfil!
   </p>
   <p>
-    :computer: :writing_hand: Também gosto de desenvolver websites, principalmente a parte de front-end. Sou apaixonado por programação, jogos, música e futebol. Atualmente estou atuando como desenvolvedor Delphi, UX/UI designer e estudando Java e Kotlin para Android. 
+    Minha jornada na área de Tecnologia da Informação começou em 2009, quando concluí o Curso Técnico de Informática. Curiosamente, meu interesse inicial era aprender sobre hardware, mas no segundo semestre fui apresentado ao fascinante mundo da programação – e foi paixão à primeira vista. Desde então, decidi que queria me tornar programador.
+  </p>
+  <p>
+    Ainda em 2009, dei início à minha carreira profissional e tive meu primeiro contato com a linguagem Delphi, que se tornou minha especialidade. Com o passar dos anos, ampliei meus conhecimentos e, em 2018, me formei como Bacharel em Sistemas de Informação pela ULBRA (Campus Guaíba - RS). Em busca de uma compreensão mais profunda sobre experiência do usuário e design de interfaces, finalizei, em 2020, uma pós-graduação em Design de Interação (UX/UI) pelo IGTI.
+  </p>
+  <p>
+    Além da minha expertise em Delphi, também possuo conhecimento em JavaScript, HTML, CSS e SQL, com foco no aprimoramento das minhas habilidades em desenvolvimento front-end web.
   </p>
 </div>
 </details>
