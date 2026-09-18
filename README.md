@@ -1,118 +1,113 @@
-### Hello, welcome, I'm Vagner Oliveira 👋
+<h1 align="center">Olá, eu sou o Vagner Oliveira 👋</h1>
+
+<h3 align="center">Software Engineer • React/TypeScript no PagBank • Rumo a Staff Engineer & AI Engineering</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Software+Engineer+h%C3%A1+%2B18+anos+de+experi%C3%AAncia;Atuando+com+React+%26+TypeScript+no+PagBank;Evoluindo+para+Staff+Engineer+%2F+Software+Architect;Estudando+AI+Engineering+aplicada+ao+desenvolvimento;Criador+de+conte%C3%BAdo+sobre+programa%C3%A7%C3%A3o+e+tecnologia" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://vagnerdev.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-2F80ED?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vagner.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@vagner.oliveira.dev" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<hr>
 
 <details open>
-  <summary><h3>About me</h3></small></summary>
-  <p>
-    Hello! 👋 I'm Vagner Oliveira, a programming and technology enthusiast. Welcome to my profile!
-  </p>
-  <p>
-    My journey in the field of Information Technology began in 2009 when I completed my Technical Course in Informatics. Interestingly, my initial goal was to learn about hardware, but in the second semester, I was introduced to the fascinating world of programming—and it was love at first sight. From that moment on, I knew I wanted to become a developer.
-  </p>
-  <p>
-    Later in 2009, I started my professional career and had my first experience with the Delphi language, which became my specialty. Over the years, I expanded my knowledge, and in 2018, I earned a Bachelor's degree in Information Systems from ULBRA (Guaíba - RS Campus). Seeking a deeper understanding of user experience and interface design, I completed a postgraduate degree in Interaction Design (UX/UI) at IGTI in 2020.
-  </p>
-  <p>
-    In addition to my expertise in Delphi, I also have experience with JavaScript, HTML, CSS, and SQL, focusing on enhancing my front-end web development skills.
-  </p>
-  
-</div>
+<summary><h3>🧑‍💻 Sobre mim</h3></summary>
+<br>
+
+- 🚀 Engenheiro de software com **~18 anos de experiência**, atuando há cerca de 5 anos no **PagBank**, atualmente com foco em **React/TypeScript**.
+- 🎯 Em transição de carreira: de **Software Engineer** para **Staff Engineer / Software Architect**, com especialização complementar em **AI Engineering**.
+- 🕹️ Minha jornada começou em 2009, com o Curso Técnico de Informática — o plano era estudar hardware, mas no segundo semestre me apaixonei por programação. Logo depois, tive meu primeiro contato profissional com **Delphi**, que se tornou minha especialidade por muitos anos.
+- 🎓 Bacharel em Sistemas de Informação (ULBRA, Campus Guaíba, 2018) e pós-graduado em Design de Interação / UX-UI (IGTI, 2020).
+- 📍 Baseado em Camaquã, RS.
+- 🎥 Produzo conteúdo sobre programação e tecnologia no YouTube, Instagram, TikTok e GitHub — Delphi, React, desenvolvimento web, boas práticas e IA aplicada ao desenvolvimento.
+- ✍️ Compartilho minha jornada e conteúdos no meu blog: [vagnerdev.com](https://vagnerdev.com/)
+- 💬 Sempre aberto a trocar ideias sobre arquitetura de software, front-end moderno e IA aplicada ao desenvolvimento.
+
 </details>
-<hr>
+
 <details>
-  <summary><h3>Sobre mim</h3></small></summary>
-  <p>
-    Olá! 👋 Sou Vagner Oliveira, um entusiasta da programação e da tecnologia. Seja muito bem-vindo(a) ao meu perfil!
-  </p>
-  <p>
-    Minha jornada na área de Tecnologia da Informação começou em 2009, quando concluí o Curso Técnico de Informática. Curiosamente, meu interesse inicial era aprender sobre hardware, mas no segundo semestre fui apresentado ao fascinante mundo da programação – e foi paixão à primeira vista. Desde então, decidi que queria me tornar programador.
-  </p>
-  <p>
-    Ainda em 2009, dei início à minha carreira profissional e tive meu primeiro contato com a linguagem Delphi, que se tornou minha especialidade. Com o passar dos anos, ampliei meus conhecimentos e, em 2018, me formei como Bacharel em Sistemas de Informação pela ULBRA (Campus Guaíba - RS). Em busca de uma compreensão mais profunda sobre experiência do usuário e design de interfaces, finalizei, em 2020, uma pós-graduação em Design de Interação (UX/UI) pelo IGTI.
-  </p>
-  <p>
-    Além da minha expertise em Delphi, também possuo conhecimento em JavaScript, HTML, CSS e SQL, com foco no aprimoramento das minhas habilidades em desenvolvimento front-end web.
-  </p>
-</div>
-</details>
-<hr>
-<details open>
-  <summary><h3>Languages</h3></small></summary>
-  <img align="center" alt="Vagner-Delphi" height="50" width="50" src="assets/delphi.png" title="Delphi">  
-  <img align="center" alt="Vagner-HTML" height="50" width="50" src="assets/html5.svg" title="HTML 5">
-  <img align="center" alt="Vagner-CSS" height="50" width="50" src="assets/css3.svg" title="CSS 3">
-  <img align="center" alt="Vagner-Java" height="50" width="50" src="assets/java.svg" title="Java">
-  <img align="center" alt="Vagner-PHP" height="50" width="50" src="assets/php.svg" title="PHP">
-</div>
-</details>
-<hr>
-<details open>
-  <summary><h3>Databases</h3></small></summary>
-  <img align="center" alt="Vagner-sqlite" height="50" width="50" src="assets/sqlite.png" title="SQLite">  
-  <img align="center" alt="Vagner-firebird" height="50" width="50" src="assets/firebird.png" title="Firebird">
-  <img align="center" alt="Vagner-mysql" height="50" width="50" src="assets/mysql.png" title="MySQL">  
-</div>
-</details>
-<hr>
-<details open>
-  <summary><h3>Development Tools</h3></small></summary>
-  <img align="center" alt="Vagner-dbeaver" height="50" width="50" src="assets/dbeaver.png" title="Dbeaver">  
-  <img align="center" alt="Vagner-ibexpert" height="50" width="50" src="assets/ibexpert.png" title="IBExpert">
-  <img align="center" alt="Vagner-rad-studio" height="50" width="50" src="assets/rad-studio.png" title="RAD Studio">
-  <img align="center" alt="Vagner-visual-studio" height="50" width="50" src="assets/visual-studio-code.svg" title="Visual Studio Code">
-</div>
-</details>
-<hr>
-<details open>
-  <summary><h3>UX & UI Tools</h3></small></summary>
-  <img align="center" alt="Vagner-figma" height="50" width="50" src="assets/figma.png" title="Figma">  
-  <img align="center" alt="Vagner-adobe-xd" height="50" width="50" src="assets/adobe-xd.svg" title="Adobe XD">
-  <img align="center" alt="Vagner-fireworks" height="50" width="50" src="assets/adobe-fireworks.png" title="Adobe Fireworks">
-  <img align="center" alt="Vagner-illustrator" height="50" width="50" src="assets/adobe-Illustrator.png" title="Adobe Illustrator">
-</div>
-</details>
-<hr>
-<details open>
-  <summary><h3>Contact</h3></small></summary>
-  <div> 
-  <a href="https://www.instagram.com/vagner.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.tiktok.com/@vagner.oliveira.dev" target="_blank"><img src="https://img.shields.io/badge/-TikTok-%23E4114F?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-</div>
-</details>
-<hr>
-<details open>
-  <summary><h3>Stats</h3></small></summary>
-  <!-- STATS:START -->
-<table>
-<tr>  
-  <td colspan="3">
-    <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=vagnerso&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=graph%20of%20contributions%20in%20all%20repositories" width="100%" alt="activity graph">
-    </p>
-  </td>
-</tr>  
-<tr>
-  <td>
-    <div align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=vagnerso&theme=dracula&?theme=dark&show_icons=true%count_private=true&include_all_commits=true" alt="My stats" />
-    </div>
-  </td>
-  <td>    
-    <div align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vagnerso&show_icons=true&langs_count=10&layout=compact&theme=dracula&count_private=true&hide=shaderlab,rpc,glsl,hlsl,cmake,asp" alt="My most used languages" />
-    </div> 
-  </td>  
-</tr>
-<tr>
-  <td colspan="3">
-    <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=vagnerso&theme=dracula" alt="My contributions" />
-    </div>   
-  </td>  
-</tr>
-</table>
-<!-- STATS:END -->
-</details>  
+<summary><h3>🇬🇧 About me (English)</h3></summary>
+<br>
 
+- 🚀 Software engineer with **~18 years of experience**, working at **PagBank** for about 5 years, currently focused on **React/TypeScript**.
+- 🎯 Transitioning from **Software Engineer** to **Staff Engineer / Software Architect**, with a complementary specialization in **AI Engineering**.
+- 🕹️ My journey began in 2009 with a Technical Course in Informatics — the plan was to study hardware, but by the second semester I fell in love with programming. Shortly after, I had my first professional experience with **Delphi**, which became my specialty for many years.
+- 🎓 B.Sc. in Information Systems (ULBRA, Guaíba Campus, 2018) and postgraduate in Interaction Design / UX-UI (IGTI, 2020).
+- 📍 Based in Camaquã, RS, Brazil.
+- 🎥 I create content about programming and technology on YouTube, Instagram, TikTok and GitHub — Delphi, React, web development, best practices and AI applied to software development.
+- ✍️ I share my journey and content on my blog: [vagnerdev.com](https://vagnerdev.com/)
+
+</details>
+
+<hr>
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <b>Linguagens & Front-end</b><br>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Bancos de dados</b><br>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebird-F80000?style=for-the-badge&logo=firebirdsql&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Ferramentas de desenvolvimento</b><br>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RAD%20Studio-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Design & UX/UI</b><br>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+</p>
+
+<hr>
+
+### 📚 Foco atual de estudos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-AI%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-System%20Design-2F80ED?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arquitetura%20de%20Software-2C3E50?style=for-the-badge&logo=cachet&logoColor=white" />
+</p>
+
+<hr>
+
+### 📫 Contato
+
+<p align="center">
+  <a href="https://vagnerdev.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-2F80ED?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vagner.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@vagner.oliveira.dev" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<hr>
+
+<p align="center">
+  <i>Obrigado pela visita! Vamos trocar uma ideia sobre tecnologia? 🚀</i>
+</p>
