@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://vagnerdev.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-2F80ED?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@vagnerdevprogramacao" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/vagner.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@vagner.oliveira.dev" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -100,7 +100,7 @@
 <p align="center">
   <a href="https://vagnerdev.com/" target="_blank"><img src="https://img.shields.io/badge/-Blog-2F80ED?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vagner-so/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@vagneroliveiradev" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/@vagnerdevprogramacao" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.instagram.com/vagner.oliveira.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@vagner.oliveira.dev" target="_blank"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:vagner_oliveira85@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
