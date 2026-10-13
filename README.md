@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Vagner Oliveira 👋</h1>
 
-<h3 align="center">Software Engineer • React/TypeScript no PagBank • Rumo a Staff Engineer & AI Engineering</h3>
+<h3 align="center">Software Engineer • React/TypeScript & Delphi no PagBank • Rumo a Staff Engineer & AI Engineering</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Software+Engineer+h%C3%A1+%2B18+anos+de+experi%C3%AAncia;Atuando+com+React+%26+TypeScript+no+PagBank;Evoluindo+para+Staff+Engineer+%2F+Software+Architect;Estudando+AI+Engineering+aplicada+ao+desenvolvimento;Criador+de+conte%C3%BAdo+sobre+programa%C3%A7%C3%A3o+e+tecnologia" alt="Typing SVG" />
